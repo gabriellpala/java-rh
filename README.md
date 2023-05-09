@@ -1,7 +1,5 @@
 # RH
-  ## !!! Concluído !!!
   
-
 ![Capturar](https://user-images.githubusercontent.com/91754673/173707912-cc8350ae-f04c-4191-8c87-cf34992d52be.JPG)
 
 ... Description
